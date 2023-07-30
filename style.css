@@ -30,12 +30,14 @@ img{
 
 }
 
-h5{
+h4{
     font-weight: 700;
+    margin:.5rem;
 }
 
 h6{
     color: #88909E;
     font-weight: 400;
+    margin:.8rem;
 
 }
